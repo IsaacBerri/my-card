@@ -3,6 +3,7 @@
   height: 550px;
   border-radius: 5px;
   overflow: hidden;
+  position: relative;
 }
 
 .containerInfo img {
@@ -34,6 +35,8 @@
   display: flex;
   justify-content: space-evenly;
   align-items: center;
+  position: absolute;
+  bottom: 0;
 }
 .Footer a{
   display: flex;

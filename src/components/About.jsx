@@ -5,10 +5,9 @@ const About = () => {
     <section className="About">
       <h2>About</h2>
       <p>
-        Soy un programador junior full-stack con habilidades sólidas en el
-        desarrollo web, capaz de trabajar tanto en el front-end como en el
-        back-end. Mi experiencia se centra en una variedad de tecnologías
-        esenciales para la creación de aplicaciones modernas.
+        I am a junior full-stack programmer with strong web development skills,
+        able to work on both front-end and back-end. My experience focuses on a
+        variety of technologies essential for building modern applications.
       </p>
     </section>
   );
