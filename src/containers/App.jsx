@@ -1,8 +1,8 @@
 import { useContext } from "react";
-import ToggleSwitche from "../components/toggleSwitche";
+import ToggleSwitche from "../components/ToggleSwitche.jsx";
 import "../styles/App.css";
-import Card from "./Card";
-import { ModeContext } from "../context/ModeContexts";
+import Card from "./Card.jsx";
+import { ModeContext } from "../context/ModeContexts.jsx";
 
 function App() {
   const {mode} = useContext(ModeContext)

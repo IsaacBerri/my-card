@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { ModeContext } from '../context/ModeContexts'
+import { ModeContext } from '../context/ModeContexts.jsx'
 
 const Button = ({type}) => {
 

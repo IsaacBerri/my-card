@@ -1,7 +1,7 @@
 import React, { useContext } from "react";
 import { useState } from "react";
 import '../styles/toggleSwitche.css'
-import { ModeContext } from "../context/ModeContexts";
+import { ModeContext } from "../context/ModeContexts.jsx";
 
 const ToggleSwitche = () => {
   const {setMode} = useContext(ModeContext)

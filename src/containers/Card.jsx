@@ -1,10 +1,10 @@
 import React, { useContext } from "react";
 import "../styles/Card.css";
-import Info from "../components/Info";
-import Button from "../components/Button";
-import About from "../components/About";
-import Footer from "../components/Footer";
-import { ModeContext } from "../context/ModeContexts";
+import Info from "../components/Info.jsx";
+import Button from "../components/Button.jsx";
+import About from "../components/About.jsx";
+import Footer from "../components/Footer.jsx";
+import { ModeContext } from "../context/ModeContexts.jsx";
 
 const Card = () => {
 

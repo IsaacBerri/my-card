@@ -1,6 +1,6 @@
 import React, { useContext } from 'react'
 import { Icon } from '@iconify/react';
-import { ModeContext } from '../context/ModeContexts';
+import { ModeContext } from '../context/ModeContexts.jsx';
 
 const Footer = () => {
     const {mode} = useContext(ModeContext)
