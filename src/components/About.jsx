@@ -5,10 +5,10 @@ const About = () => {
     <section className="About">
       <h2>About</h2>
       <p>
-        Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eaque ipsum
-        obcaecati, quos nemo amet repellendus hic, illum pariatur est
-        consequuntur commodi necessitatibus, neque provident voluptatum!
-        Laudantium sapiente error ea inventore?
+        Soy un programador junior full-stack con habilidades sólidas en el
+        desarrollo web, capaz de trabajar tanto en el front-end como en el
+        back-end. Mi experiencia se centra en una variedad de tecnologías
+        esenciales para la creación de aplicaciones modernas.
       </p>
     </section>
   );
